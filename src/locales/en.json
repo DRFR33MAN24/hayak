@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "login": "Login",
+    "username": "User Name",
+    "password": "Password",
+    "enteruser": "Enter User",
+    "enterpassword": "Enter Password",
+    "pickevent": "Pick event",
+    "logout": "Logout",
+    "scanbarcode": "Scan QR code",
+    "seat": "Seat",
+    "name": "Name",
+    "dateandtime": "Date-Time",
+    "checkin": "check-in",
+    "fail": "Fail",
+    "success": "Success",
+    "errorscanagain": "Error Scan Again",
+    "continue": "Continue",
+    "events": "Events",
+    "tickets": "Tickets",
+    "scanBarcode": "Scan Barcode",
+    "appheader": "Reservation & Ticketing Management System",
+    "appsubheader": "Create, Manage & Sell Your Reservations & Tickets Easily"
+  }
+}

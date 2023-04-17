@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "login": "تسجيل الدخول",
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "enteruser": "ادخل مستخدم",
+    "enterpassword": "ادخل كلمة مرور",
+    "pickevent": "اختر مناسبة",
+    "logout": "تسجيل الخروج",
+    "scanbarcode": "مسح كود QR",
+    "seat": "المقعد",
+    "name": "الاسم",
+    "dateandtime": "الوقت والتاريخ",
+    "checkin": "الحجز",
+    "fail": "فشل",
+    "success": "نجاح",
+    "errorscanagain": "خطأ امسح مجددا",
+    "continue": "المتابعة",
+    "events": "المناسبات",
+    "tickets": "الحجوزات",
+    "scanBarcode": "مسح الباركود",
+    "appheader": "نظام إدارة الحجز والتذاكر",
+    "appsubheader": "انشاء ادارة وبيع الحجوزات والتذاكر بسهولة"
+  }
+}
